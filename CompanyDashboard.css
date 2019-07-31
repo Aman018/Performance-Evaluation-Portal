@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color:#f1f1f1;
+	background-image:url("code.jpg");
+	background-size:cover;
+	color:white;
+}
+form{
+	text-align:center;
+	margin-top:10%;
+	padding-top:40px;
+	width:35%;
+	height:350px;	
+	margin-left:200px;
+	font-size: 20px;
+	font-style: bold;
+	
+}
+.fieldset{
+	border:#f1f1f1 6px solid;
+	color:white;
+	
+}
+
+.fieldset legend{
+	color:white;
+	font-size:20px;
+}
+button{
+	background-color:teal;
+	padding:5px;
+	color:white;
+	font-family:generic;
+}
+form p{
+	margin-left:40%;
+}
+a{
+	text-decoration:none;
+}

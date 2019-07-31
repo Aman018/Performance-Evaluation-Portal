@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color:#f1f1f1;
+	background-image:url("code.jpg");
+	background-size:cover;
+}
+form{
+	text-align:center;
+	margin-top:10%;
+	padding-top:40px;
+	width:35%;
+	height:700;px;	
+	margin-left:200px;
+	
+}
+.field-set{
+	border:#f1f1f1 4px solid;
+	color:white;
+}
+.field-set a:link{
+	color:white;
+}
+.field-set a:visited{
+	color:white;
+}
+.field-set a:hover{
+	color:yellow;
+}
+.field-set a:visited{
+	color:red;
+}
+
+.field-set legend{
+	color:white;
+	font-size:20px;
+}
+button{
+	background-color:teal;
+	padding:5px;
+	color:white;
+	font-family:generic;
+}
+form p{
+	margin-left:40%;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	color:white;
+}
+a:active{
+	color:red;

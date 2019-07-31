@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+form{
+	margin-top: 200px;
+	width:500px;
+	}
+body{
+	background-image:url("code10.jpg");
+	background-size:cover;
+
+	}
+.legend{
+	font-size: 40px;
+	font-size: italic;
+	
+}
+.fieldset{
+	width:700px;
+	height:200px;
+	border:#000 4px solid;
+}
+.company{
+	font-size:25px;
+	width:350px; 
+	font-style: italic;
+}

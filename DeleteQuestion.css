@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image:url("code8.jpg");
+	background-size:cover;
+}
+.legend{
+	font-style: italic;
+	font-size: 20px;
+}
+.fieldset{
+	width:700px;
+	
+	border:#000 4px solid; 
+}
+form{
+	width:700px;
+	margin-top:100px;
+	font-size:20px;
+}
+.question{
+	font-size:20px;
+	width:500px;
+	height:50px;
+}

@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image:url("code2.jpg");
+	background-size:cover;
+	color:white;
+	font-size:30px;
+}
+fieldset legend{
+	color:white;
+}
+.fieldset{
+	width:600px;
+	border:#f1f1f1 4px solid;
+}
